@@ -23,7 +23,17 @@ En el desarollo de los planetas y sol se ultilizo un Shader Lit que pertenece al
 *Se tomo en cuenta en la escala el valor de 1 como 6371 km que es el radio de la tierra para sacar la escala del resto de los planetas*
 
 ___
-Las texturas utilizadas en este proyecto son las oficiales que provee la NASA
+Las texturas utilizadas en este proyecto son las que provee la NASA, al igual que la informacion requerida para poder crear los planetas de acorde a sus especificaciones. 
+- [Textures](https://www.solarsystemscope.com/textures/)
+- [Referencia](https://solarsystem.nasa.gov/resources/686/solar-system-sizes/#:~:text=Planet%20Sizes&text=Outward%20from%20the%20Sun%2C%20the,by%20the%20dwarf%20planet%20Pluto.
+- )
+___
+# Integrantes
+
+**Jose Rodolfo Vega Oros**
+**Robin Ivan Perez Gonzalez**
+
+ 
 
 
 
