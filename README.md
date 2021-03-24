@@ -12,7 +12,11 @@ Incluye los siguientes puntos:
 - Planetas a escala y en orden
 ___
 
-#Cuerpo
+# Cuerpo
+
+En el desarollo de los planetas y sol se ultilizo un Shader Lit que pertenece al URP, ya creado este se dividio en 4 segmentos, estos son:
+- [Main Texture](https://snipboard.io/08B6oX.jpg)
+
 
 
 
