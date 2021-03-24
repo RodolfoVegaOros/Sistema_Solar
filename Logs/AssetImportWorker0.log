@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/metaf/Desktop/chuypansho/Sistema Solar/parcial 2
+C:/Users/metaf/Desktop/chuypansho/parcial 2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49377
-Successfully changed project path to: C:/Users/metaf/Desktop/chuypansho/Sistema Solar/parcial 2
-C:/Users/metaf/Desktop/chuypansho/Sistema Solar/parcial 2
+52139
+Successfully changed project path to: C:/Users/metaf/Desktop/chuypansho/parcial 2
+C:/Users/metaf/Desktop/chuypansho/parcial 2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 42.00 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 39.21 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/metaf/Desktop/chuypansho/Sistema Solar/parcial 2/Assets
+[Subsystems] Discovering subsystems at path C:/Users/metaf/Desktop/chuypansho/parcial 2/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -36,50 +36,122 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001579 seconds.
+Registered in 0.001703 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 40.05 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 40.76 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.999 seconds
+- Completed reload, in  0.996 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001433 seconds.
+Registered in 0.001329 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 44.25 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 43.59 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.892 seconds
+- Completed reload, in  0.885 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2401 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 116.9 MB.
-System memory in use after: 117.1 MB.
+Unloading 2403 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.1 MB.
+System memory in use after: 118.3 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2841.
-Total: 2.147900 ms (FindLiveObjects: 0.236400 ms CreateObjectMapping: 0.130200 ms MarkObjects: 1.723900 ms  DeleteObjects: 0.056500 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2846.
+Total: 1.872600 ms (FindLiveObjects: 0.220200 ms CreateObjectMapping: 0.116800 ms MarkObjects: 1.485900 ms  DeleteObjects: 0.048500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Sistema.unity
-  artifactKey: Guid(5f9333cc4badb004aa997c13b2651176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Sistema.unity using Guid(5f9333cc4badb004aa997c13b2651176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae841ad4819608adc7fb1720c4b3fcd5') in 0.016302 seconds
-  Import took 0.020572 seconds .
+  path: Assets/Shader/Saturn/SATURN_OCC.jpg
+  artifactKey: Guid(3cc05bf6ffe21f04b96284f06591a4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/SATURN_OCC.jpg using Guid(3cc05bf6ffe21f04b96284f06591a4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92cfbae1753ee01ccb6ad7a091fae608') in 0.096218 seconds
+  Import took 0.099751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Shader/Saturn/Anillo Material.mat
+  artifactKey: Guid(40b8994d05e0e4642a179b92da9a02fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/Anillo Material.mat using Guid(40b8994d05e0e4642a179b92da9a02fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6643bf3e921169e6ae66b10a7afbed71') in 0.179435 seconds
+  Import took 0.183090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Shader/Saturn/SATURN.jpg
+  artifactKey: Guid(e9e770045fc089a4b8382ef4ec2bf7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/SATURN.jpg using Guid(e9e770045fc089a4b8382ef4ec2bf7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ae953b59b9e3bf0eac90f42ffcfa06') in 0.014194 seconds
+  Import took 0.017763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Shader/Saturn/SATURN.shadergraph
+  artifactKey: Guid(b47f021d7112c714f870385d5df4218c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/SATURN.shadergraph using Guid(b47f021d7112c714f870385d5df4218c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5b44f946f9e2e50056f19b83dc3e4b') in 0.007312 seconds
+  Import took 0.011083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Shader/Saturn/SATURN.mat
+  artifactKey: Guid(b5664d5b3aa7bad48a52000c4aa93912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/SATURN.mat using Guid(b5664d5b3aa7bad48a52000c4aa93912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc856ed78287c42217b561ec5a7ead3') in 0.807165 seconds
+  Import took 0.810844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Shader/Saturn/SATURN_NRM.jpg
+  artifactKey: Guid(5dceb2bf60be32f41b4f005ef3dd350c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/SATURN_NRM.jpg using Guid(5dceb2bf60be32f41b4f005ef3dd350c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d5ba957ca5c7b94238f70868b937c3') in 0.014804 seconds
+  Import took 0.018918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Shader/Saturn/Ring_Texture.png
+  artifactKey: Guid(93f1798d6cf614285b08b98a0283586d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/Ring_Texture.png using Guid(93f1798d6cf614285b08b98a0283586d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaae03547444767035a8ae55491f5d1b') in 0.015356 seconds
+  Import took 0.019127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Shader/Saturn/Anillo.vfx
+  artifactKey: Guid(a599383098fea444c8f1601d3b97a596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/Anillo.vfx using Guid(a599383098fea444c8f1601d3b97a596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c85255d6aea4ba28609d89e77e7f1c6') in 0.009312 seconds
+  Import took 0.013086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Shader/Saturn
+  artifactKey: Guid(03932ec8f65ce6541899fc24bda97e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn using Guid(03932ec8f65ce6541899fc24bda97e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1406c717003786420d0f3169ed355eb') in 0.006112 seconds
+  Import took 0.009544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Shader/Saturn/RING.png
+  artifactKey: Guid(02246f44208135741a1546884c2eb34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Saturn/RING.png using Guid(02246f44208135741a1546884c2eb34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1bf1cf875c1cc96213327e6952d368') in 0.013495 seconds
+  Import took 0.016960 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
