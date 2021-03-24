@@ -15,7 +15,11 @@ ___
 # Cuerpo
 
 En el desarollo de los planetas y sol se ultilizo un Shader Lit que pertenece al URP, ya creado este se dividio en 4 segmentos, estos son:
-- [Main Texture](https://snipboard.io/08B6oX.jpg)
+- [Rim Light](https://ibb.co/7jPRskg)
+- [Normals](https://ibb.co/0Y6Yp2q)
+- [Occlussion](https://ibb.co/GWZnxFX)
+- [Main Texture](https://ibb.co/n3yXYGK)
+
 
 
 
