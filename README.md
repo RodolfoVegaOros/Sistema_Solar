@@ -20,6 +20,12 @@ En el desarollo de los planetas y sol se ultilizo un Shader Lit que pertenece al
 - [Occlussion](https://ibb.co/GWZnxFX)
 - [Main Texture](https://ibb.co/n3yXYGK)
 
+*Se tomo en cuenta en la escala el valor de 1 como 6371 km que es el radio de la tierra para sacar la escala del resto de los planetas*
+
+___
+Las texturas utilizadas en este proyecto son las oficiales que provee la NASA
+
+
 
 
 
